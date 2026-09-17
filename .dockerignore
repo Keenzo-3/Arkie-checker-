@@ -1,0 +1,25 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Env / secrets
+.env
+.env.*
+
+# Git
+.git
+.gitignore
+
+# Runtime data (auto-create sa volume)
+data/
+combo/
+Results/
+proxy/
+persistent/
+
+# Docs
+README.md
+LICENSE
